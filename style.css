@@ -92,7 +92,8 @@ button:focus {
         }
         
         
-    .avisoDog {
+    .avisoDog,
+    .avisoCat {
         left: 17%
         }
     .containerArea {
