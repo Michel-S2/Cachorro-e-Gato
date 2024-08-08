@@ -91,6 +91,10 @@ button:focus {
         font-size: 10px;
         }
         
+        
+    .avisoDog {
+        left: 17%
+        }
     .containerArea {
         gap: 10px;
     }
