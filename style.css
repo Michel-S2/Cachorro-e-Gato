@@ -87,7 +87,10 @@ button:focus {
 }
 
 @media (width <= 600px) {
-
+    p {
+        font-size: 13px;
+        }
+        
     .containerArea {
         gap: 10px;
     }
